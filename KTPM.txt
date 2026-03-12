@@ -1,0 +1,14 @@
+11/03/2026
+- Nghiên cứu về Google AI Studio
+- Tạo app tour Hội An dựa vô file PRD thầy đưa
+12/03/2026
+- Nghiên cứu techstack sử dụng:
+  + Python: Backend
+  + HTML,CSS,JS: Frontned
+  + SQL SV: Database
+  + API: Open source map leaflet, Mapbox,..
+  + Tổ chức thư mục code thành 3 lớp
+- Nghiên cứu lại về nội dung yêu cầu Phố Ẩm thực Vĩnh Khánh:
+  + Tạo app Phố Ẩm Thực hoặc phát triển trên app có sẵn?!
+  + Tạo UI cho sử dụng AI, nhận diện voice recognition, dựa theo file fork có sẵn,...
+   
