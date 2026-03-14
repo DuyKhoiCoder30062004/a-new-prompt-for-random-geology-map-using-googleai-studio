@@ -1,0 +1,12 @@
+14/03/2026
+- API cho audio?!
+- làm các diagrams xung quanh
+- cân nhắc có thể dùng lại control panel tour để tích hợp POI GPS vô
+- Tóm tắt tổng quan, từng module 1, xong rồi vẽ diagrams.
+- Xem API, cân nhắc fastapi, flask, django
+- google gemini 2.5 (pre-trained)
+-> translate , TTS,Azure TTS (xem sẵn pre-trained model: gemini 2.5), (HoaiMyNeutral) -> làm tiếng việt (vn) trước.
+-> chạy dc thuyết minh nữa là ok
+-> POI locate gian hàng (dựa theo 2 <= 10 km bán kính)
+
+
